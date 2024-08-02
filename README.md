@@ -1,2 +1,1 @@
-# CV-classification-neyral-network
-CV-classification neyral network
+Нейросеть распознает 101 блюдо.
